@@ -1,0 +1,4 @@
+*.pkl
+!metadata.pkl
+*.npy
+*_Tuples.txt
