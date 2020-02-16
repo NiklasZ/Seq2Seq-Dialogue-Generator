@@ -26,7 +26,7 @@ al. 2015)
 
 ## Acknowledgments
 
-We reuse code from several sources:
+I reuse code from several sources:
 * The basic sequence-to-sequence model (`seq2seq_wrapper.py`, `data_utils.py`,
   `data/data.py`) is adapted from Suriyadeepan's
   [`practical_seq2seq`](https://github.com/suriyadeepan/practical_seq2seq).
